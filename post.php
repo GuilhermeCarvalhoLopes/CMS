@@ -35,7 +35,7 @@ if(isset($_GET["codigo"])){
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Bootstrap Example</title>
+    <title>Post</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -85,7 +85,7 @@ if(isset($_GET["codigo"])){
                 <!-- Header -->
                 <header class="w3-container w3-center w3-padding-32">
                     <h1><b>MY BLOG</b></h1>
-                    <p>Welcome to the blog of <span class="w3-tag">unknown</span></p>
+                    <p>BEM VINDO AO BLOG DO <span class="w3-tag">GUILHERME</span></p>
                 </header>
 
                 <!-- Grid -->
